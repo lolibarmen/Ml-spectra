@@ -1,0 +1,3 @@
+./third/venv/
+*.csv
+__pycache__/
